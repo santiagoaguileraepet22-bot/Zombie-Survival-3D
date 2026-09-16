@@ -1,0 +1,6 @@
+{
+  "name": "Zombie Survival 3D",
+  "description": "Prototipo de videojuego 3D en tercera persona contra oleadas de zombies con código Python Ursina Engine y simulador interactivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
